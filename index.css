@@ -1,0 +1,134 @@
+body{
+   margin: auto;
+}
+
+header{
+   border: 1px solid rgb(99, 19, 19);
+   height: 50px;
+   background-color:rgb(99, 19, 19) ;
+}
+
+#text{
+   font-size: 25px;
+   color: white;
+   margin-top: 8px;
+   margin-left: 5px;
+   font: left; 
+}
+#icon{
+   float: right; 
+   margin-top: -32px;
+   margin-right: 15px;
+}
+.log{
+   width: 40px;
+}
+
+#bord{
+   height: 550px;
+   width: 20%;
+   border:3px solid aquamarine;
+   margin-top: 73px;
+   margin-left:130px;
+}
+.cuisine{
+   font-size: 30px;
+margin-left: 120px;
+}
+.main{
+   display: flex;
+   flex-wrap: wrap;
+}
+.side{
+  height: 300px;
+   width: 55%;
+ 
+  margin-top: -580px;
+  margin-left:625px;
+  display: flex;
+  box-shadow: 10px -10px 100px rgb(238, 135, 238);
+}
+.sid{
+   height:300px ;
+   width: 55%;
+
+   margin-top: -275px;
+   margin-left:625px;
+   display: flex;
+   box-shadow: 10px -10px 100px rgb(219, 99, 163);
+}
+.img{
+   width: 50%;
+
+} 
+.img > img{
+   border-radius: 30px;
+   height:100% ;
+   width: 100%;
+}
+.img1{
+   width: 50%;
+
+}
+.img1 > img{
+   border-radius: 30px;
+   height:100% ;
+   width: 100%;
+}
+.tg{
+   margin-top: 2%;
+   margin-left: 12%;
+   font-size: 35px;
+}
+.ft{
+   margin-top: 2%;
+   margin-left:12%;
+}
+.dft{
+   font-size: 20px;
+}
+.flex{
+   height: 23px;
+   width: 44%;
+   color: white;
+   margin-left: 5%;
+   margin-top: 5%;
+   text-align: center;
+   font-size: 20px;
+   background-color: rgb(14, 102, 179);
+}
+.fle{
+   height: 30px;
+   width: 88%;
+   color: rgb(27, 242, 231);
+   margin-left: 29%;
+   margin-top: -5%;
+   text-align: center;
+   font-size: 20px;
+   background-color: rgb(195, 66, 189);
+   
+}
+.fl{
+   height: 30px;
+   width: 88%;
+   color: rgb(218, 169, 71);
+   margin-left: 5%;
+   margin-top: 5%;
+   text-align: center;
+   font-size: 20px;
+   background-color: rgb(225, 84, 155);
+}
+   
+.f{
+   height: 27px;
+   width: 50%;
+   color: white;
+   margin-left: 75%;
+   margin-top: 5%;
+   text-align: center;
+   font-size: 20px;
+   background-color: rgb(173, 198, 103);
+   
+}
+
+
